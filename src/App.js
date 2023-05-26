@@ -1,6 +1,7 @@
 import logo from "./logo.svg";
 import "./App.css";
-import { Database } from "@tableland/sdk";
+
+// import { Database } from "@tableland/sdk";
 
 function App() {
   return (
